@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>带有标签 python 的条目</title>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>165</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/book/subject/1440658</id>
+		<title>Dive Into Python</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>Mark Pilgrim</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/1440658" rel="self"/>
+		<link href="http://book.douban.com/subject/1440658/" rel="alternate"/>
+		<link href="http://t.douban.com/spic/s4180565.jpg" rel="image"/>
+		<db:attribute name="isbn10">1590593561</db:attribute>
+		<db:attribute name="isbn13">9781590593561</db:attribute>
+		<db:attribute name="author">Mark Pilgrim</db:attribute>
+		<db:attribute name="price">$39.99</db:attribute>
+		<db:attribute name="publisher">Apress</db:attribute>
+		<db:attribute name="pubdate">19 July, 2004</db:attribute>
+		<gd:rating average="8.2" max="10" min="0" numRaters="515"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/3117898</id>
+		<title>Python源码剖析——深度探索动态语言核心技术</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>陈儒</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/3117898" rel="self"/>
+		<link href="http://book.douban.com/subject/3117898/" rel="alternate"/>
+		<link href="http://img2.douban.com/spic/s3435132.jpg" rel="image"/>
+		<db:attribute name="isbn10">7121068745</db:attribute>
+		<db:attribute name="isbn13">9787121068744</db:attribute>
+		<db:attribute name="price">69.8</db:attribute>
+		<db:attribute name="author">陈儒</db:attribute>
+		<db:attribute name="publisher">电子工业出版社</db:attribute>
+		<db:attribute name="pubdate">2008-6-1</db:attribute>
+		<gd:rating average="8.3" max="10" min="0" numRaters="149"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/3112503</id>
+		<title>《Python核心编程》(中文第二版)</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>[美]Wesley J. Chun（陳仲才）</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/3112503" rel="self"/>
+		<link href="http://book.douban.com/subject/3112503/" rel="alternate"/>
+		<link href="http://img2.douban.com/spic/s3422202.jpg" rel="image"/>
+		<db:attribute name="isbn10">711517850X</db:attribute>
+		<db:attribute name="isbn13">9787115178503</db:attribute>
+		<db:attribute name="translator">CPUG</db:attribute>
+		<db:attribute name="price">89.0</db:attribute>
+		<db:attribute name="author">[美]Wesley J. Chun（陳仲才）</db:attribute>
+		<db:attribute name="publisher">人民邮电出版社</db:attribute>
+		<db:attribute name="pubdate">2008-06</db:attribute>
+		<gd:rating average="7.7" max="10" min="0" numRaters="293"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/3884108</id>
+		<title>可爱的Python</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>哲思社区</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/3884108" rel="self"/>
+		<link href="http://book.douban.com/subject/3884108/" rel="alternate"/>
+		<link href="http://t.douban.com/spic/s3901817.jpg" rel="image"/>
+		<db:attribute name="isbn10">7121085143</db:attribute>
+		<db:attribute name="isbn13">9787121085147</db:attribute>
+		<db:attribute name="price">55</db:attribute>
+		<db:attribute name="author">哲思社区</db:attribute>
+		<db:attribute name="publisher">电子工业出版社</db:attribute>
+		<db:attribute name="pubdate">2009年9月</db:attribute>
+		<gd:rating average="7.8" max="10" min="0" numRaters="135"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/1239501</id>
+		<title>Python语言入门</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>[美] Mark Lutz</name>
+		</author>
+		<author>
+			<name>David Ascber</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/1239501" rel="self"/>
+		<link href="http://book.douban.com/subject/1239501/" rel="alternate"/>
+		<link href="http://img2.douban.com/spic/s1318070.jpg" rel="image"/>
+		<db:attribute name="isbn10">7508305809</db:attribute>
+		<db:attribute name="isbn13">9787508305806</db:attribute>
+		<db:attribute name="translator">陈革</db:attribute>
+		<db:attribute name="translator">冯大辉</db:attribute>
+		<db:attribute name="author">[美] Mark Lutz</db:attribute>
+		<db:attribute name="author">David Ascber</db:attribute>
+		<db:attribute name="price">55.00元</db:attribute>
+		<db:attribute name="publisher">中国电力出版社</db:attribute>
+		<db:attribute name="pubdate">2001-4</db:attribute>
+		<gd:rating average="7.4" max="10" min="0" numRaters="140"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/1418172</id>
+		<title>Python Cookbook</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>Alex Martelli</name>
+		</author>
+		<author>
+			<name>Anna Ravenscroft</name>
+		</author>
+		<author>
+			<name>David Ascher</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/1418172" rel="self"/>
+		<link href="http://book.douban.com/subject/1418172/" rel="alternate"/>
+		<link href="http://t.douban.com/spic/s4244679.jpg" rel="image"/>
+		<db:attribute name="isbn10">0596007973</db:attribute>
+		<db:attribute name="isbn13">9780596007973</db:attribute>
+		<db:attribute name="author">Alex Martelli</db:attribute>
+		<db:attribute name="author">Anna Ravenscroft</db:attribute>
+		<db:attribute name="author">David Ascher</db:attribute>
+		<db:attribute name="price">$49.95</db:attribute>
+		<db:attribute name="publisher">O'Reilly</db:attribute>
+		<db:attribute name="pubdate">18 March, 2005</db:attribute>
+		<gd:rating average="8.3" max="10" min="0" numRaters="84"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/2137490</id>
+		<title>Python网络编程基础</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>John Goerzen</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/2137490" rel="self"/>
+		<link href="http://book.douban.com/subject/2137490/" rel="alternate"/>
+		<link href="http://t.douban.com/spic/s2604186.jpg" rel="image"/>
+		<db:attribute name="isbn10">7121256665</db:attribute>
+		<db:attribute name="isbn13">9787121256660</db:attribute>
+		<db:attribute name="author">John Goerzen</db:attribute>
+		<db:attribute name="price">68.00</db:attribute>
+		<db:attribute name="publisher">电子工业出版社</db:attribute>
+		<db:attribute name="translator">莫迟 等</db:attribute>
+		<db:attribute name="pubdate">2007</db:attribute>
+		<gd:rating average="7.1" max="10" min="0" numRaters="112"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/1915868</id>
+		<title>Python编程（第三版·英文影印版）</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>Mark Lutz</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/1915868" rel="self"/>
+		<link href="http://book.douban.com/subject/1915868/" rel="alternate"/>
+		<link href="http://t.douban.com/spic/s2396946.jpg" rel="image"/>
+		<db:attribute name="isbn10">7564105704</db:attribute>
+		<db:attribute name="isbn13">9787564105709</db:attribute>
+		<db:attribute name="price">138.0</db:attribute>
+		<db:attribute name="author">Mark Lutz</db:attribute>
+		<db:attribute name="publisher">东南大学出版社</db:attribute>
+		<db:attribute name="pubdate">2006</db:attribute>
+		<gd:rating average="8.3" max="10" min="0" numRaters="85"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/1426816</id>
+		<title>学习Python（第二版，影印版）</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>Mark Lutz</name>
+		</author>
+		<author>
+			<name>David Ascher</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/1426816" rel="self"/>
+		<link href="http://book.douban.com/subject/1426816/" rel="alternate"/>
+		<link href="http://t.douban.com/spic/s1436455.jpg" rel="image"/>
+		<db:attribute name="isbn10">7564100478</db:attribute>
+		<db:attribute name="isbn13">9787564100476</db:attribute>
+		<db:attribute name="price">68.0</db:attribute>
+		<db:attribute name="author">Mark Lutz</db:attribute>
+		<db:attribute name="author">David Ascher</db:attribute>
+		<db:attribute name="publisher">东南大学出版社</db:attribute>
+		<db:attribute name="pubdate">2005-08-01</db:attribute>
+		<gd:rating average="8.1" max="10" min="0" numRaters="90"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/2005622</id>
+		<title>PYTHON技术手册(影印版·第二版)</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>马特利</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/2005622" rel="self"/>
+		<link href="http://book.douban.com/subject/2005622/" rel="alternate"/>
+		<link href="http://t.douban.com/spic/s3395418.jpg" rel="image"/>
+		<db:attribute name="isbn10">7564105763</db:attribute>
+		<db:attribute name="isbn13">9787564105761</db:attribute>
+		<db:attribute name="price">78.0</db:attribute>
+		<db:attribute name="author">马特利</db:attribute>
+		<db:attribute name="publisher">东南大学出版社</db:attribute>
+		<db:attribute name="pubdate">2006-11-1</db:attribute>
+		<gd:rating average="8.0" max="10" min="0" numRaters="84"/>
+	</entry>
+	<opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+</feed>
